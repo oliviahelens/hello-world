@@ -1,2 +1,3 @@
-# hello-world
-Practice file.
+# practice-file
+import python
+	print "hello world"
